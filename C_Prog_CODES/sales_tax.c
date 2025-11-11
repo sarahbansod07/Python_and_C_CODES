@@ -1,9 +1,5 @@
-/* Title: Understand and implement basic concepts of C
-
-Name: Sarah Nitin Bansod
-Div: C
-Roll No.: 03 */
-
+// Title: Understand and implement basic concepts of C
+ 
 #include<stdio.h> //header file
 int main()     //main function, the prg execution starts from here
 {
@@ -34,4 +30,5 @@ int main()     //main function, the prg execution starts from here
     return 0;
 
 }
+
     
