@@ -1,4 +1,4 @@
-#CINEMA_TICKET_PRICING.  !!WRONG CODE!!
+#CINEMA_TICKET_PRICING. 
 num_of_tickets =int(input("Enter no. of tickets:"))
 age = int(input("Enter your age:"))
 
@@ -28,4 +28,5 @@ elif (age>60):
     print("Your Total Amount is:",GST_2)
 
 else:
+
     print("Your Total Amount is:", GST_3)
